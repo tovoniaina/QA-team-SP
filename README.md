@@ -7,6 +7,10 @@
 4. Aller sur votre vsCode puis taper cette commande git
 
 ```git clone <URL>```
+5. Taper ```npm init```
+6. Taper ```npm install```
+7. Taper ```npx cypress open```
+Puis commencez à code votre "test.cy.js" à l'intérieur du dossier ```/cypress/e2e```
 
 # De quoi il s’agit? 
 => Il s’agit de visiter ce site https://parabank.parasoft.com/ pour effectuer certains cas de test en Cypress
