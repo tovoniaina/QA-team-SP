@@ -4,12 +4,10 @@
 1. une fois vous aurez le lien github classroom, vous acceptez l'invitation
 2. Après cela, actualiser la page
 3. Copier l'URL que vous voyez sur la page
-4. Aller sur votre vsCode puis taper cette commande git
-
-```git clone <URL>```
-5. Taper ```npm init```
-6. Taper ```npm install```
-7. Taper ```npx cypress open```
+4. Aller sur votre vsCode puis taper cette commande git ```git clone <URL>```  <br>
+5. Taper ```npm init``` <br>
+6. Taper ```npm install``` <br>
+7. Taper ```npx cypress open``` <br>
 Puis commencez à code votre "test.cy.js" à l'intérieur du dossier ```/cypress/e2e```
 
 # De quoi il s’agit? 
