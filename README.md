@@ -25,5 +25,6 @@ Quels sont les objectifs?
 4. Cliquer sur le bouton Register et vérifier si l’URL https://parabank.parasoft.com/parabank/register.htm est bien affichée sur la barre d’adresse 
 5. Remplir les champs pour le signup en utilisant le “cy.type” puis cliquer le bouton REGISTER tout en bas en utilisant le “cy.clic”
 
-# Rendu de l’exercice attendu;
-Fichier cypress nommé “test.cy.js”
+# Rendu de l’exercice attendu
+- Fichier cypress nommé “test.cy.js” dans ```/cypress/e2e```
+- Quand taper ```npx cypress open``` le fichier ```test.cy.js``` s'exécute en ouvrant un navigateur
